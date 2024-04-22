@@ -33,3 +33,7 @@ The CloudUploader CLI is a bash-based tool that allows users to quickly upload f
 - Provide an option to generate and display a shareable link post-upload.
 - Enable file synchronization -- if the file already exists in the cloud, prompt the user to overwrite, skip, or rename.
 - Integrate encryption for added security before
+
+### Architecture CloudUploader CLI tool:
+
+![alt text](image.png)
